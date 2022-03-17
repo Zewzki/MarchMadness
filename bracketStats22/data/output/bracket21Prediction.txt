@@ -1,0 +1,71 @@
+West
+Gonzaga vs. Norfolk St. --> Gonzaga
+Oklahoma vs. Missouri --> Oklahoma
+Creighton vs. UC Santa Barbara --> Creighton
+Virginia vs. Ohio --> Virginia
+USC vs. Drake --> USC
+Kansas vs. Eastern Washington --> Kansas
+Oregon vs. VCU --> Oregon
+Iowa vs. Grand Canyon --> Iowa
+Gonzaga vs. Oklahoma --> Gonzaga
+Creighton vs. Virginia --> Virginia
+USC vs. Kansas --> USC
+Oregon vs. Iowa --> Iowa
+Gonzaga vs. Virginia --> Gonzaga
+USC vs. Iowa --> USC
+Gonzaga vs. USC --> Gonzaga
+
+East
+Michigan vs. Texas Southern --> Michigan
+LSU vs. St. Bonaventure --> LSU
+Colorado vs. Georgetown --> Colorado
+Florida St. vs. UNC Greensboro --> Florida St.
+BYU vs. UCLA --> UCLA
+Texas vs. Abilene Christian --> Texas
+Connecticut vs. Maryland --> Connecticut
+Alabama vs. Iona --> Alabama
+Michigan vs. LSU --> Michigan
+Colorado vs. Florida St. --> Colorado
+UCLA vs. Texas --> UCLA
+Connecticut vs. Alabama --> Alabama
+Michigan vs. Colorado --> Michigan
+UCLA vs. Alabama --> Alabama
+Michigan vs. Alabama --> Michigan
+
+South
+Baylor vs. Hartford --> Baylor
+North Carolina vs. Wisconsin --> Wisconsin
+Villanova vs. Winthrop --> Villanova
+Purdue vs. North Texas --> Purdue
+Texas Tech vs. Utah St. --> Texas Tech
+Arkansas vs. Colgate --> Arkansas
+Florida vs. Virginia Tech --> Florida
+Ohio St. vs. Oral Roberts --> Ohio St.
+Baylor vs. Wisconsin --> Baylor
+Villanova vs. Purdue --> Villanova
+Texas Tech vs. Arkansas --> Texas Tech
+Florida vs. Ohio St. --> Ohio St.
+Baylor vs. Villanova --> Baylor
+Texas Tech vs. Ohio St. --> Ohio St.
+Baylor vs. Ohio St. --> Baylor
+
+Midwest
+Illinois vs. Drexel --> Illinois
+Loyola Chicago vs. Georgia Tech --> Loyola Chicago
+Tennessee vs. Oregon St. --> Tennessee
+Oklahoma St. vs. Liberty --> Oklahoma St.
+San Diego St. vs. Syracuse --> San Diego St.
+West Virginia vs. Morehead St. --> West Virginia
+Clemson vs. Rutgers --> Rutgers
+Houston vs. Cleveland St. --> Houston
+Illinois vs. Loyola Chicago --> Illinois
+Tennessee vs. Oklahoma St. --> Tennessee
+San Diego St. vs. West Virginia --> West Virginia
+Rutgers vs. Houston --> Houston
+Illinois vs. Tennessee --> Illinois
+West Virginia vs. Houston --> Houston
+Illinois vs. Houston --> Illinois
+
+Illinois vs. Baylor --> Baylor
+Michigan vs. Gonzaga --> Gonzaga
+Baylor vs. Gonzaga --> Gonzaga

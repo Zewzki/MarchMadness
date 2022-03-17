@@ -1,0 +1,71 @@
+West
+Gonzaga vs. Arizona --> Gonzaga
+Boise St. vs. Memphis --> Boise St.
+Connecticut vs. New Mexico St. --> Connecticut
+Arkansas vs. Vermont --> Arkansas
+Alabama vs. Rutgers --> Alabama
+Texas Tech vs. Montana St. --> Texas Tech
+Michigan St. vs. Davidson --> Michigan St.
+Duke vs. Cal St. Fullerton --> Duke
+Gonzaga vs. Boise St. --> Gonzaga
+Connecticut vs. Arkansas --> Connecticut
+Alabama vs. Texas Tech --> Texas Tech
+Michigan St. vs. Duke --> Duke
+Gonzaga vs. Connecticut --> Gonzaga
+Texas Tech vs. Duke --> Texas Tech
+Gonzaga vs. Texas Tech --> Gonzaga
+
+East
+Baylor vs. Norfolk St. --> Baylor
+North Carolina vs. Marquette --> North Carolina
+Saint Mary's vs. Wyoming --> Saint Mary's
+UCLA vs. Akron --> UCLA
+Texas vs. Virginia Tech --> Texas
+Purdue vs. Yale --> Purdue
+Murray St. vs. San Francisco --> San Francisco
+Kentucky vs. Saint Peter's --> Kentucky
+Baylor vs. North Carolina --> Baylor
+Saint Mary's vs. UCLA --> UCLA
+Texas vs. Purdue --> Purdue
+San Francisco vs. Kentucky --> Kentucky
+Baylor vs. UCLA --> Baylor
+Purdue vs. Kentucky --> Kentucky
+Baylor vs. Kentucky --> Kentucky
+
+South
+Arizona vs. Wright St. --> Arizona
+Seton Hall vs. TCU --> Seton Hall
+Houston vs. UAB --> Houston
+Illinois vs. Chattanooga --> Illinois
+Colorado St. vs. Michigan --> Colorado St.
+Tennessee vs. Longwood --> Tennessee
+Ohio St. vs. Loyola Chicago --> Loyola Chicago
+Villanova vs. Delaware --> Villanova
+Arizona vs. Seton Hall --> Arizona
+Houston vs. Illinois --> Houston
+Colorado St. vs. Tennessee --> Tennessee
+Loyola Chicago vs. Villanova --> Villanova
+Arizona vs. Houston --> Arizona
+Tennessee vs. Villanova --> Tennessee
+Arizona vs. Tennessee --> Arizona
+
+Midwest
+Kansas vs. Texas Southern --> Kansas
+San Diego St. vs. Creighton --> San Diego St.
+Iowa vs. Richmond --> Iowa
+Providence vs. South Dakota St. --> Providence
+LSU vs. Iowa St. --> LSU
+Wisconsin vs. Colgate --> Wisconsin
+USC vs. Miami FL --> USC
+Auburn vs. Jacksonville St. --> Auburn
+Kansas vs. San Diego St. --> Kansas
+Iowa vs. Providence --> Iowa
+LSU vs. Wisconsin --> LSU
+USC vs. Auburn --> Auburn
+Kansas vs. Iowa --> Kansas
+LSU vs. Auburn --> Auburn
+Kansas vs. Auburn --> Kansas
+
+Kansas vs. Arizona --> Arizona
+Kentucky vs. Gonzaga --> Gonzaga
+Arizona vs. Gonzaga --> Gonzaga
