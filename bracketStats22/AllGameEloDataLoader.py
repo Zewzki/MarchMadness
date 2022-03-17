@@ -21,8 +21,8 @@ class AllGameEloDataLoader(DataLoader):
 
     __defaultELO = 1300.0
 
-    __kFactor = 60.0
-
+    __kFactor = 20.0
+    
     def __init__(self, translationTablePath):
         self.__keyList = []
         self.__translator = Translator(translationTablePath)
@@ -103,18 +103,11 @@ class AllGameEloDataLoader(DataLoader):
         p1 = t1Elo / (t1Elo + t2Elo)
         p2 = t2Elo / (t1Elo + t2Elo)
 
-        e1Update = 0.0
-        e2Update = 0.0
+        u1 = 1 / (1 + 10 ** ((t2Elo - t1Elo) / 400))
+        u2 = 1 / (1 + 10 ** ((t1Elo - t2Elo) / 400))
 
-        if winner == 1:
-            e1Update = self.__kFactor * (1 - p1)
-            e2Update = self.__kFactor * (0 - p2)
-        elif winner == 0:
-            e1Update = self.__kFactor * (0.5 - p1)
-            e2Update = self.__kFactor * (0.5 - p2)
-        else:
-            e1Update = self.__kFactor * (0 - p1)
-            e2Update = self.__kFactor * (1 - p2)
+        e1Update = self.__kFactor * (winner - u1)
+        e2Update = self.__kFactor * ((not winner) - u2)
 
         return e1Update, e2Update
     

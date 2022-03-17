@@ -90,27 +90,28 @@ class BracketPredictor:
 
 if __name__ == '__main__':
 
-    dataPath = 'data/raw/kenPom/kenPomData22.txt'
-    bracketPath = 'data/raw/brackets/bracket22.txt'
-    outputPath = 'data/output/bracket22Prediction.txt'
+    #dataPath = 'data/raw/kenPom/kenPomData22.txt'
+    #bracketPath = 'data/raw/brackets/bracket22.txt'
+    #outputPath = 'data/output/bracket22Prediction.txt'
     #truthPath = 'data/raw/brackets/bracket21Results.txt'
 
-    #dataPath = 'data/raw/gameData/allGames21.txt'
-    #bracketPath = 'data/raw/brackets/bracket21Rename.txt'
-    #outputPath = 'data/output/bracket21EloPrediction.txt'
+    dataPath = 'data/raw/gameData/allGames22.txt'
+    bracketPath = 'data/raw/brackets/bracket22Rename.txt'
+    outputPath = 'data/output/bracket22EloPrediction.txt'
     #truthPath = 'data/raw/brackets/bracket21ResultsRename.txt'
-    #translationTablePath = 'data/resources/translationTableV1.txt'
+    translationTablePath = 'data/resources/translationTableV1.txt'
 
     be = BracketEvaluator()
 
-    kpdl = KenPomDataLoader()
+    #kpdl = KenPomDataLoader()
     bl = BracketLoader()
-    kpmp = KenPomMatchupPredictorV1()
+    #kpmp = KenPomMatchupPredictorV1()
 
-    #agedl = AllGameEloDataLoader(translationTablePath)
-    #emp = EloMatchupPredictor()
+    agedl = AllGameEloDataLoader(translationTablePath)
+    emp = EloMatchupPredictor()
 
-    bp = BracketPredictor(bl, kpdl, kpmp, outputPath)
+    #bp = BracketPredictor(bl, kpdl, kpmp, outputPath)
+    bp = BracketPredictor(bl, agedl, emp, outputPath)
     bp.load(dataPath, bracketPath)
     bp.predict_bracket()
 
