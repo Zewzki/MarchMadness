@@ -1,0 +1,71 @@
+West
+Gonzaga Bulldogs vs. Norfolk State Spartans --> Gonzaga Bulldogs
+Oklahoma Sooners vs. Missouri Tigers --> Missouri Tigers
+Creighton Bluejays vs. UC Santa Barbara Gauchos --> UC Santa Barbara Gauchos
+Virginia Cavaliers vs. Ohio Bobcats --> Virginia Cavaliers
+USC Trojans vs. Drake Bulldogs --> Drake Bulldogs
+Kansas Jayhawks vs. Eastern Washington Eagles --> Kansas Jayhawks
+Oregon Ducks vs. VCU Rams --> Oregon Ducks
+Iowa Hawkeyes vs. Grand Canyon Antelopes --> Iowa Hawkeyes
+Gonzaga Bulldogs vs. Missouri Tigers --> Gonzaga Bulldogs
+UC Santa Barbara Gauchos vs. Virginia Cavaliers --> UC Santa Barbara Gauchos
+Drake Bulldogs vs. Kansas Jayhawks --> Drake Bulldogs
+Oregon Ducks vs. Iowa Hawkeyes --> Oregon Ducks
+Gonzaga Bulldogs vs. UC Santa Barbara Gauchos --> Gonzaga Bulldogs
+Drake Bulldogs vs. Oregon Ducks --> Drake Bulldogs
+Gonzaga Bulldogs vs. Drake Bulldogs --> Gonzaga Bulldogs
+
+East
+Michigan Wolverines vs. Texas Southern Tigers --> Michigan Wolverines
+LSU Tigers vs. St. Bonaventure Bonnies --> St. Bonaventure Bonnies
+Colorado Buffaloes vs. Georgetown Hoyas --> Colorado Buffaloes
+Florida State Seminoles vs. UNCG Spartans --> UNCG Spartans
+BYU Cougars vs. UCLA Bruins --> BYU Cougars
+Texas Longhorns vs. Abilene Christian Wildcats --> Abilene Christian Wildcats
+Connecticut Huskies vs. Maryland Terrapins --> Connecticut Huskies
+Alabama Crimson Tide vs. Iona Gaels --> Alabama Crimson Tide
+Michigan Wolverines vs. St. Bonaventure Bonnies --> Michigan Wolverines
+Colorado Buffaloes vs. UNCG Spartans --> Colorado Buffaloes
+BYU Cougars vs. Abilene Christian Wildcats --> Abilene Christian Wildcats
+Connecticut Huskies vs. Alabama Crimson Tide --> Alabama Crimson Tide
+Michigan Wolverines vs. Colorado Buffaloes --> Michigan Wolverines
+Abilene Christian Wildcats vs. Alabama Crimson Tide --> Alabama Crimson Tide
+Michigan Wolverines vs. Alabama Crimson Tide --> Alabama Crimson Tide
+
+South
+Baylor Bears vs. Hartford Hawks --> Baylor Bears
+North Carolina Tar Heels vs. Wisconsin Badgers --> North Carolina Tar Heels
+Villanova Wildcats vs. Winthrop Eagles --> Winthrop Eagles
+Purdue Boilermakers vs. North Texas Mean Green --> Purdue Boilermakers
+Texas Tech Red Raiders vs. Utah State Aggies --> Utah State Aggies
+Arkansas Razorbacks vs. Colgate Raiders --> Arkansas Razorbacks
+Florida Gators vs. Virginia Tech Hokies --> Virginia Tech Hokies
+Ohio State Buckeyes vs. Oral Roberts Golden Eagles --> Ohio State Buckeyes
+Baylor Bears vs. North Carolina Tar Heels --> Baylor Bears
+Winthrop Eagles vs. Purdue Boilermakers --> Winthrop Eagles
+Utah State Aggies vs. Arkansas Razorbacks --> Arkansas Razorbacks
+Virginia Tech Hokies vs. Ohio State Buckeyes --> Ohio State Buckeyes
+Baylor Bears vs. Winthrop Eagles --> Winthrop Eagles
+Arkansas Razorbacks vs. Ohio State Buckeyes --> Arkansas Razorbacks
+Winthrop Eagles vs. Arkansas Razorbacks --> Winthrop Eagles
+
+Midwest
+Illinois Fighting Illini vs. Drexel Dragons --> Illinois Fighting Illini
+Loyola Chicago Ramblers vs. Georgia Tech Yellow Jackets --> Loyola Chicago Ramblers
+Tennessee Volunteers vs. Oregon State Beavers --> Tennessee Volunteers
+Oklahoma State Cowboys vs. Liberty Flames --> Liberty Flames
+San Diego State Aztecs vs. Syracuse Orange --> San Diego State Aztecs
+West Virginia Mountaineers vs. Morehead State Eagles --> Morehead State Eagles
+Clemson Tigers vs. Rutgers Scarlet Knights --> Clemson Tigers
+Houston Cougars vs. Cleveland State Vikings --> Houston Cougars
+Illinois Fighting Illini vs. Loyola Chicago Ramblers --> Loyola Chicago Ramblers
+Tennessee Volunteers vs. Liberty Flames --> Liberty Flames
+San Diego State Aztecs vs. Morehead State Eagles --> San Diego State Aztecs
+Clemson Tigers vs. Houston Cougars --> Houston Cougars
+Loyola Chicago Ramblers vs. Liberty Flames --> Loyola Chicago Ramblers
+San Diego State Aztecs vs. Houston Cougars --> Houston Cougars
+Loyola Chicago Ramblers vs. Houston Cougars --> Houston Cougars
+
+Houston Cougars vs. Winthrop Eagles --> Winthrop Eagles
+Alabama Crimson Tide vs. Gonzaga Bulldogs --> Gonzaga Bulldogs
+Winthrop Eagles vs. Gonzaga Bulldogs --> Gonzaga Bulldogs

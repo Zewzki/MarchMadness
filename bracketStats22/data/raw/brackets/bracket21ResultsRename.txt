@@ -1,0 +1,71 @@
+West
+Gonzaga Bulldogs Bulldogs vs. Norfolk State Spartans --> Gonzaga Bulldogs Bulldogs
+Oklahoma Sooners vs. Missouri Tigers --> Oklahoma Sooners
+Creighton Bluejays vs. UC Santa Barbara Gauchos --> Creighton Bluejays
+Virginia Cavaliers vs. Ohio Bobcats --> Ohio Bobcats
+USC Trojans vs. Drake Bulldogs --> USC Trojans
+Kansas Jayhawks vs. Eastern Washington Eagles --> Kansas Jayhawks
+Oregon Ducks vs. VCU Rams --> Oregon Ducks
+Iowa Hawkeyes vs. Grand Canyon Antelopes --> Iowa Hawkeyes
+Gonzaga Bulldogs vs. Oklahoma Sooners --> Gonazaga Bulldogs
+Creighton Bluejays vs. Ohio Bobcats --> Creighton Bluejays
+USC Trojans vs. Kansas Jayhawks --> USC Trojans
+Oregon Ducks vs. Iowa Hawkeyes --> Oregon Ducks
+Gonzaga Bulldogs vs. USC Trojans --> Gonzaga Bulldogs
+USC Trojans vs. Oregon Ducks --> USC Trojans
+Gonzaga Bulldogs vs. USC Trojans --> Gonzaga Bulldogs
+
+East
+Michigan Wolverines vs. Texas Southern Tigers --> Michigan Wolverines
+LSU Tigers vs. St. Bonaventure Bonnies --> LSU Tigers
+Colorado Buffaloes vs. Georgetown Hoyas --> Colorado Buffaloes
+Florida State Seminoles vs. UNCG Spartans --> Florida State Seminoles
+BYU Cougars vs. UCLA Bruins --> UCLA Bruins
+Texas Longhorns vs. Abilene Christian Wildcats --> Abilene Christian Wildcats
+Connecticut Huskies vs. Maryland Terrapins --> Maryland Terrapins
+Alabama Crimson Tide vs. Iona Gaels --> Alabama Crimson Tide
+Michigan Wolverines vs. LSU Tigers --> Michigan Wolverines
+Colorado Buffaloes vs. Florida State Seminoles --> Florida State Seminoles
+UCLA Bruins vs. Abilene Christian Wildcats --> UCLA Bruins
+Maryland Terrapins vs. Alabama Crimson Tide --> Alabama Crimson Tide
+Michigan Wolverines vs. Florida State Seminoles --> Michigan Wolverines
+UCLA Bruins vs. Alabama Crimson Tide --> Alabama Crimson Tide
+Michigan Wolverines vs. UCLA Bruins --> UCLA Bruins
+
+South
+Baylor Bears vs. Hartford Hawks --> Baylor Bears
+North Carolina vs. Wisconsin Badgers --> Wisconsin Badgers
+Villanova Wildcats vs. Winthrop Eagles --> Villanova Wildcats
+Purdue Boilermakers vs. North Texas Mean Green --> North Texas Mean Green
+Texas Tech Red Raiders vs. Utah State Aggies --> Texas Tech Red Raiders
+Arkansas Razorbacks vs. Colgate Raiders --> Arkansas Razorbacks
+Florida Gators vs. Virginia Tech --> Florida Gators
+Ohio State Buckeyes vs. Oral Roberts Golden Eagles --> Oral Roberts Golden Eagles
+Baylor Bears vs. Wisconsin Badgers --> Baylor Bears
+Villanova Wildcats vs. North Texas Mean Green --> Villanova Wildcats
+Texas Tech Red Raiders St. vs. Arkansas Razorbacks --> Arkansas Razorbacks
+Florida Gators vs. Oral Roberts Golden Eagles --> Oral Roberts Golden Eagles
+Baylor Bears vs. Villanova Wildcats --> Baylor Bears
+Arkansas Razorbacks vs. Oral Roberts Golden Eagles --> Arkansas Razorbacks
+Baylor Bears vs. Arkansas Razorbacks --> Baylor Bears
+
+Midwest
+Illinois Fighting Illini vs. Drexel Dragons --> Illinois Fighting Illini
+Loyola Chicago Ramblers vs. Georgia Tech Yellow Jackets --> Loyola Chicago Ramblers
+Tennessee Volunteers vs. Oregon State Beavers --> Oregon State Beavers
+Oklahoma State Cowboys vs. Liberty Flames --> Oklahoma State Cowboys
+San Diego State Aztecs vs. Syracuse Orange --> Syracuse Orange
+West Virginia Mountaineers vs. Morehead State Eagles --> West Virginia Mountaineers
+Clemson Tigers vs. Rutgers Scarlet Knights --> Rutgers Scarlet Knights
+Houston Tigers vs. Cleveland State Vikings --> Houston Tigers
+Illinois Fighting Illini vs. Loyola Chicago Ramblers --> Loyola Chicago Ramblers
+Oregon State Beavers vs. Oklahoma State Cowboys --> Oregon State Beavers
+Syracuse Orange vs. West Virginia Mountaineers --> Syracuse Orange
+Rutgers Scarlet Knights vs. Houston Tigers --> Houston Tigers
+Loyola Chicago Ramblers vs. Oregon State Beavers --> Oregon State Beavers
+Syracuse Orange vs. Houston Tigers --> Houston Tigers
+Oregon State Beavers vs. Houston Tigers --> Houston Tigers
+
+Gonzaga Bulldogs vs. UCLA Bruins --> Gonzaga Bulldogs
+Baylor Bears vs. Houston Tigers --> Baylor Bears
+Gonzaga Bulldogs vs. Baylor Bears --> Baylor Bears

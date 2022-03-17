@@ -1,0 +1,71 @@
+West
+Gonzaga vs. Norfolk St. --> Gonzaga.
+Oklahoma vs. Missouri --> Oklahoma
+Creighton vs. UC Santa Barbara --> Creighton
+Virginia vs. Ohio --> Ohio
+USC vs. Drake --> USC
+Kansas vs. Eastern Washington --> Kansas
+Oregon vs. VCU --> Oregon
+Iowa vs. Grand Canyon --> Iowa
+Gonzaga vs. Oklahoma --> Gonazaga
+Creighton vs. Ohio --> Creighton
+USC vs. Kansas --> USC
+Oregon vs. Iowa --> Oregon
+Gonzaga vs. USC --> Gonzaga
+USC vs. Oregon --> USC
+Gonzaga vs. USC --> Gonzaga
+
+East
+Michigan vs. Texas Southern --> Michigan
+LSU vs. St. Bonaventure --> LSU
+Colorado vs. Georgetown --> Colorado
+Florida St. vs. UNC Greensboro --> Florida St.
+BYU vs. UCLA --> UCLA
+Texas vs. Abilene Christian --> Abilene Christian
+Connecticut vs. Maryland --> Maryland
+Alabama vs. Iona --> Alabama
+Michigan vs. LSU --> Michigan
+Colorado vs. Florida St. --> Florida St.
+UCLA vs. Abilene Christian --> UCLA
+Maryland vs. Alabama --> Alabama
+Michigan vs. Florida St. --> Michigan
+UCLA vs. Alabama --> Alabama
+Michigan vs. UCLA --> UCLA
+
+South
+Baylor vs. Hartford --> Baylor
+North Carolina vs. Wisconsin --> Wisconsin
+Villanova vs. Winthrop --> Villanova
+Purdue vs. North Texas --> North Texas
+Texas Tech vs. Utah St. --> Texas Tech
+Arkansas vs. Colgate --> Arkansas
+Florida vs. Virginia Tech --> Florida
+Ohio St. vs. Oral Roberts --> Oral Roberts
+Baylor vs. Wisconsin --> Baylor
+Villanova vs. North Texas --> Villanova
+Texas Tech St. vs. Arkansas --> Arkansas
+Florida vs. Oral Roberts --> Oral Roberts
+Baylor vs. Villanova --> Baylor
+Arkansas vs. Oral Roberts --> Arkansas
+Baylor vs. Arkansas --> Baylor
+
+Midwest
+Illinois vs. Drexel --> Illinois
+Loyola Chicago vs. Georgia Tech --> Loyola Chicago
+Tennessee vs. Oregon St. --> Oregon St.
+Oklahoma St. vs. Liberty --> Oklahoma St.
+San Diego St. vs. Syracuse --> Syracuse
+West Virginia vs. Morehead St. --> West Virginia
+Clemson vs. Rutgers --> Rutgers
+Houston vs. Cleveland St. --> Houston
+Illinois vs. Loyola Chicago --> Loyola Chicago
+Oregon St. vs. Oklahoma St. --> Oregon St.
+Syracuse vs. West Virginia --> Syracuse
+Rutgers vs. Houston --> Houston
+Loyola Chicago vs. Oregon St. --> Oregon St.
+Syracuse vs. Houston --> Houston
+Oregon St. vs. Houston --> Houston
+
+Gonzaga vs. UCLA --> Gonzaga
+Baylor vs. Houston --> Baylor
+Gonzaga vs. Baylor --> Baylor

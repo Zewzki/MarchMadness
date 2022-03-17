@@ -1,0 +1,493 @@
+Abilene Christian Wildcats:2450.342889
+Adrian College Bulldogs:123.865000
+Arizona Christian Firestorm:189.574000
+Adams State University Grizzlies:215.567000
+Air Force Falcons:1600.708000
+Akron Zips:2161.688565
+Alabama Crimson Tide:3405.674000
+Alabama A&M Bulldogs:899.226000
+Alabama State Hornets:1096.182667
+Albany Great Danes:1111.313500
+Alice Lloyd College Eagles:184.788000
+Alcorn State Braves:1203.090895
+American University Eagles:730.327000
+Appalachian State Mountaineers:2378.436571
+Arlington Baptist Patriots:206.948000
+Arkansas Razorbacks:2714.504714
+Arkansas State Red Wolves:1813.654000
+Little Rock Trojans:1887.126846
+Army West Point Black Knights:1644.425571
+UAPB Golden Lions:1493.658000
+Arizona Wildcats:2256.807692
+Arizona State Sun Devils:1966.270000
+Auburn Tigers:2609.729556
+Austin Peay Governors:2239.576333
+Belmont Abbey Crusaders:189.440000
+Ball State Cardinals:1951.680478
+Baylor Bears:2598.801500
+Bluefield College Ramblin' Rams:166.036000
+Belhaven Blazers:214.210000
+Bellarmine Knights:1614.443000
+Belmont Bruins:3205.254000
+Benedictine College Ravens:104.611000
+Benedictine Mesa Redhawks:304.864000
+Bethesda Flames:586.850000
+Binghamton Bearcats:1238.823667
+Bluefield State Big Blues:140.018000
+Boise State Broncos:2265.448000
+Boston College Eagles:1591.486000
+Boston University Terriers:1284.838000
+Bowling Green Falcons:2183.687000
+Bradley Braves:2137.776714
+Bryant Bulldogs:2114.568143
+Bethel (TN) Wildcats:153.284000
+Bucknell Bison:952.983000
+Buffalo Bulls:2109.775000
+Butler Bulldogs:1642.629000
+Bacone Warriors:156.573000
+BYU Cougars:2508.145077
+California Baptist Lancers:2416.720435
+California Golden Bears:2066.200793
+Cal Poly Mustangs:1516.586000
+Calvin Knights:136.978000
+Campbell Fighting Camels:2174.393667
+Canisius Golden Griffins:918.691923
+Central Arkansas Bears:1816.342500
+Carlow University Celtics:136.340000
+Carver College Cougars:827.896143
+Catawba Indians:158.650000
+Central Baptist College Mustangs:183.044000
+College of Coastal Georgia Mariners:218.970000
+Champion Christian College Tigers:329.304571
+Cedarville Yellow Jackets:121.176000
+Central Connecticut State Blue Devils:1476.483857
+Charleston Cougars:1428.796421
+Charlotte 49ers:1645.731000
+Chattanooga Mocs:2231.713077
+Chicago St. Cougars:454.824000
+Chowan Hawks:191.967000
+Charleston Southern Buccaneers:1459.935000
+College of Idaho Coyotes:304.722000
+Cincinnati Bearcats:1677.675826
+Citadel Bulldogs:2556.960000
+Clemson Tigers:1776.391652
+Cleveland State Vikings:1963.877462
+Central Michigan Chippewas:1820.234087
+Coastal Carolina Chanticleers:2202.538783
+Coe Kohawks:155.527000
+Colorado Buffaloes:2585.614000
+Colorado Christian Cougars:156.613000
+Colgate Raiders:1457.456000
+Colorado State Rams:2184.831000
+Coppin State Eagles:1823.230455
+Covenant Scots:196.460000
+Crowley's Ridge College Pioneers:257.059000
+Creighton Bluejays:2808.748857
+Columbus State Cougars:215.007000
+Bakersfield Roadrunners:2239.093308
+Cal State Fullerton Titans:1295.189000
+CSUN Matadors:1675.976818
+Colorado State-Pueblo ThunderWolves:187.644000
+Campbellsville University Harrodsburg Pioneers:189.637000
+Concordia-Irvine Eagles:179.243000
+Culver-Stockton Wildcats:91.184000
+Dallas Christian Crusaders:293.459000
+Davidson Wildcats:1849.479429
+Dayton Flyers:1869.855435
+Dickinson State Blue Hawks:127.207000
+Delaware Fightin' Blue Hens:1052.444000
+Delaware State Hornets:1573.738158
+Denver Pioneers:1476.194000
+DePaul Blue Demons:1186.583263
+Detroit Titans:2105.448455
+Doane Doane:146.893000
+Drake Bulldogs:2555.380000
+Drexel Dragons:1475.355316
+Dalton State Roadrunners:163.776000
+Duke Blue Devils:2108.283000
+Duquesne Dukes:1206.243000
+Dixie State Trailblazers:1458.659429
+East Carolina Pirates:1243.138053
+Eastern Illinois Panthers:1997.413222
+Eastern Kentucky Colonels:3033.725241
+Elon Phoenix:1316.501316
+Eastern Michigan Eagles:1306.322333
+Emmanuel Lions:180.146000
+Emporia St. Hornets:151.371000
+East Tennessee State Buccaneers:1982.061000
+East Texas Baptist Tigers:141.364000
+Evansville Aces:1994.425000
+Eastern Washington Eagles:2088.216696
+Edward Waters Tigers:189.118000
+Fairfield Stags:1670.960222
+Fairleigh Dickinson Knights:2013.392000
+Fort Hays State Tigers:220.536000
+Florida Gators:1884.986696
+Flagler Saints:517.630000
+Florida A&M Rattlers:1280.358000
+Florida Atlantic Owls:2169.819130
+Florida College Falcons:253.366000
+FGCU Eagles:1406.493333
+FIU Golden Panthers:2522.205538
+Florida Memorial Lions:207.302000
+Florida National Conquistadors:427.920000
+Florida State Seminoles:2006.162273
+Fordham Rams:668.110143
+Fresno Pacific Sunbirds:346.990000
+Freed-Hardeman Lions:205.779000
+Fresno State Bulldogs:1694.119000
+Furman Paladins:2562.530000
+Georgia Bulldogs:2153.781692
+Gardner-Webb Runnin' Bulldogs:2198.641462
+Georgia Southern Eagles:2080.628846
+Georgia State Panthers:1967.092182
+Green Bay Phoenix:1860.326000
+Greensboro Pride:265.562000
+Grand Canyon Antelopes:1917.543696
+Georgetown Hoyas:2094.592000
+George Washington Colonials:1168.368353
+George Mason Patriots:1650.172000
+Gonzaga Bulldogs:2872.107692
+Greenville Panthers:381.506000
+George Fox Bruins:137.834000
+Grambling State Tigers:1612.480000
+Georgia Tech Yellow Jackets:2153.686000
+Hampton Pirates:1901.873000
+Hartford Hawks:1682.506130
+Hawaii Rainbow Warriors:1651.172091
+Hardin-Simmons Cowboys:219.696000
+Hawaii Hilo Vulcans:213.347000
+Hawaii Pacific Sharks:126.290000
+Hofstra Pride:1845.897913
+Holy Cross Crusaders:1119.404250
+Houston Cougars:2644.964889
+Houston Baptist Huskies:2023.415000
+Howard Payne Yellow Jackets:237.886000
+Howard Bison:426.239000
+High Point Panthers:1536.088500
+Idaho Vandals:1302.633636
+Idaho State Bengals:1915.986000
+Illinois Fighting Illini:2669.436828
+UIC Flames:1580.075182
+Illinois State Redbirds:1996.452000
+Incarnate Word Cardinals:1597.999455
+Indiana Hoosiers:1899.814778
+Indiana State Sycamores:1743.361000
+Iona Gaels:1422.825588
+Iowa Hawkeyes:3135.743931
+Iowa State Cyclones:1662.095500
+Purdue Fort Wayne Mastodons:2066.541870
+IUPUI Jaguars:1332.112000
+Jackson State Tigers:1208.192000
+Jacksonville Dolphins:1759.784000
+Jacksonville State Gamecocks:2365.230667
+Judson Eagles:118.293000
+James Madison Dukes:1707.966000
+Kansas Jayhawks:2339.753429
+Kansas State Wildcats:1904.505379
+Keene State Owls:134.351000
+Kennesaw State Owls:1609.295000
+Columbia International Rams:277.268000
+Kent State Golden Flashes:2015.517435
+Lafayette Leopards:1243.550000
+Lamar Cardinals:1839.969000
+Louisiana-Monroe Warhawks:1809.681538
+Lander Bearcats:162.486000
+La Salle Explorers:1894.632000
+La Sierra University Golden Eagles:138.127000
+Lancaster Bible College Chargers:202.447000
+Long Beach State 49ers:1355.702000
+Lee University Flames:128.547000
+Lehigh Mountain Hawks:964.413000
+Le Tourneau Yellow Jackets:318.088000
+Lewis Flyers:157.507000
+Liberty Flames:2925.721286
+Limestone Saints:181.780000
+Lincoln (PA) Lions:265.460000
+Lipscomb Bisons:2176.385000
+LIU Brooklyn Sharks:1385.105667
+Longwood Lancers:2033.879000
+Louisville Cardinals:1334.829000
+Louisiana-Lafayette Ragin' Cajuns:2118.040846
+Louisiana Tech Bulldogs:2355.052429
+Loyola Chicago Ramblers:2397.223429
+Loyola Maryland Greyhounds:1214.671882
+Loyola Marymount Lions:1734.964091
+Loyola (LA) Wolfpack:130.031000
+LSU Tigers:2606.569111
+LSU-Alexandria General:315.331000
+Maine Black Bears:457.247333
+Malone University Pioneers:212.366000
+Manhattan Jaspers:1205.056000
+Marist Red Foxes:1500.113273
+Marquette Golden Eagles:2074.094333
+Mars Hill Lions:125.552000
+Marshall Thundering Herd:2105.132182
+Mount Marty Lancers:134.742000
+Maryland Terrapins:2407.530690
+Massachusetts-Lowell River Hawks:1632.917217
+McKendree Bearcats:213.923000
+McMurry War Hawks:251.754000
+McNeese State Cowboys:2237.792000
+Mercer Bears:2762.866897
+Merrimack College Warriors:1258.891000
+Mary Hardin-Baylor Crusaders:193.958000
+Morehead State Eagles:2375.629000
+Miami (FL) Hurricanes:1851.332778
+Miami (OH) RedHawks:1867.748696
+Michigan Wolverines:2095.264500
+Midwestern State Mustangs:188.992000
+Minnesota Golden Gophers:2307.613276
+Ole Miss Rebels:1935.439222
+Missouri Tigers:2002.239000
+Mobile Rams:210.662000
+Monmouth Hawks:1604.125000
+Montana State Bobcats:1784.333348
+Montana Grizzlies:2074.714143
+Morgan State Bears:1999.880455
+Missouri Science & Technology Miners:112.787000
+Memphis Tigers:1915.598500
+Mercyhurst Lakers:163.004000
+Mt. St. Joseph Lions:203.594000
+Mississippi State Bulldogs:2055.037138
+Missouri State Bears:2020.845000
+Michigan State Spartans:1952.681556
+Mount St. Mary's Mountaineers:1455.269727
+Mississippi Valley State Delta Devils:1530.033000
+Mount Aloysius Mounties:122.804000
+Middle Tennessee Blue Raiders:1507.993435
+Murray State Racers:2347.542154
+North Alabama Lions:1974.535500
+Northern Arizona Lumberjacks:1328.178182
+Navy Midshipmen:1332.579333
+Newberry Indians:196.705000
+North Carolina Tar Heels:2207.367714
+UNC Asheville Bulldogs:1609.784000
+North Carolina A&T Aggies:1532.557571
+North Carolina Central Eagles:943.840143
+UNCG Spartans:2401.979241
+Northern Colorado Bears:1777.692000
+North Carolina State Wolfpack:1817.323130
+UNCW Seahawks:1348.454353
+North Carolina Wesleyan Battling Bishops:338.921000
+Notre Dame Fighting Irish:2326.697462
+North Dakota Fighting Hawks:1920.833231
+North Dakota State Bison:2104.197333
+Northeastern Huskies:1419.722526
+Nebraska Cornhuskers:2182.685778
+Omaha Mavericks:1576.453000
+Northeastern State RiverHawks:190.115000
+Nevada Wolf Pack:2662.111615
+Newman Jets:107.580000
+North Florida Ospreys:1981.426957
+North Georgia Saints:201.166000
+New Hampshire Wildcats:1280.905474
+Niagara Purple Eagles:1265.952000
+Nicholls Colonels:2661.422000
+Northern Illinois Huskies:1062.880526
+UNI Panthers:1906.594000
+NJIT Highlanders:1206.893895
+Northern Kentucky Norse:1948.785000
+New Mexico Lobos:1331.258364
+New Mexico State Aggies:1791.675000
+New Orleans Privateers:1986.150000
+Norfolk State Spartans:1896.151522
+North Texas Mean Green:2445.121769
+Northwestern Wildcats:1873.963500
+Northwest University Eagles:289.180000
+Northwest Nazarene Crusaders:188.589000
+Northwestern State Demons:2286.585172
+Oakland Golden Grizzlies:2717.545000
+Oakwood Ambassadors:177.580000
+Ohio Bobcats:2149.732087
+Ohio State Buckeyes:2816.685000
+Oklahoma Sooners:2135.355000
+Oklahoma State Cowboys:2420.369143
+Old Dominion Monarchs:1598.818130
+Olivet College Comets:209.101000
+Our Lady of the Lake Saints:617.178000
+Overland Park Kansas Christian Falcons:94.208000
+Oral Roberts Golden Eagles:2957.803231
+Oregon Ducks:2296.996846
+Oregon State Beavers:2274.560483
+Pacific Tigers:1203.064667
+Penn State Nittany Lions:2080.306000
+Pepperdine Waves:2005.124500
+Piedmont Lions:181.214000
+Pittsburgh Panthers:1591.803273
+Portland Pilots:1540.436143
+Portland State Vikings:1628.025273
+Point Park Pioneers:225.225000
+Paul Quinn Tigers:97.707000
+Presbyterian Blue Hose:1389.308727
+Providence Friars:1865.376462
+Purdue Northwest Pride:275.782000
+Purdue Boilermakers:2143.861889
+Prairie View A&M Panthers:1582.620286
+Quincy Hawks:167.128000
+Queens NC Royals:285.682000
+Quinnipiac Bobcats:1579.129391
+Radford Highlanders:1967.736000
+Rhode Island Rams:1828.256000
+Rhode Island College Anchormen:217.452000
+Rice Owls:2803.774714
+Richmond Spiders:1721.438571
+Rider Broncs:1530.038348
+Robert Morris Colonials:1375.244263
+Rochester (MI) Warriors:127.184000
+Rogers State Hillcats:156.168000
+Regis Rangers:187.342000
+Rust College Bearcats:113.526000
+Rutgers Scarlet Knights:1879.053231
+Sacred Heart Pioneers:1328.359333
+Sacramento State Hornets:1438.693000
+SAGU American Indian College Warriors:146.588000
+South Alabama Jaguars:2611.454857
+Salem Tigers:184.350000
+Samford Bulldogs:1546.450737
+Santa Clara Broncos:1388.257000
+South Carolina Gamecocks:1513.598000
+South Carolina State Bulldogs:1038.610667
+USC Upstate Spartans:1605.396130
+San Diego Toreros:865.049429
+South Dakota Coyotes:2092.372000
+San Diego Christian Hawks:198.012000
+South Dakota State Jackrabbits:2122.115478
+San Diego State Aztecs:2418.702333
+Seattle Redhawks:1818.663391
+Southeastern Louisiana Lions:1859.406846
+Southeast Missouri State Redhawks:2096.282556
+Seton Hall Pirates:2116.851667
+San Francisco Dons:2283.084000
+Stephen F. Austin Lumberjacks:1823.532714
+South Florida Bulls:1406.937273
+LSU-Shreveport Pilots:182.378000
+Siena Saints:1194.731765
+Southern Illinois Salukis:1957.528615
+Simpson University (CA) Red Hawks:169.712000
+SIUE Cougars:1793.604769
+San Jose State Spartans:1372.776000
+Saint Katherine College Firebirds:400.546000
+Sam Houston State Bearkats:2754.379857
+SMU Mustangs:1269.795500
+Southern Miss Golden Eagles:1574.475000
+Southern University Jaguars:1314.137316
+Spring Hill Badgers:189.632000
+St. Ambrose Fighting Bees:167.389000
+Stanford Cardinal:1997.493333
+St. Andrews Presbyterian Knights:241.528000
+St. Bonaventure Bonnies:1746.638000
+Stony Brook Seawolves:1575.805870
+St. Louis College of Pharmacy Eutectic:105.250000
+Stetson Hatters:2187.546000
+St. Francis Brooklyn Terriers:1481.220684
+Saint Francis U Red Flash:1505.714000
+St. Francis (IL) Fighting Saints:152.730000
+Saint Joseph's Hawks:1623.592000
+St. John's Red Storm:2382.622333
+Saint Louis Billikens:1579.915000
+St. Mary's (MD) Seahawks:227.423000
+St. Mary's (TX) Rattlers:167.136000
+Saint Mary's Gaels:1515.208478
+St Martins Saints:179.751000
+Saint Peter's Peacocks:1648.371000
+Sul Ross State Lobos:193.268000
+Southern Utah Thunderbirds:2438.366000
+Southern Virginia Knights:120.970000
+Southwest Adventist Knights:114.889000
+SW Christian University Eagles:159.142000
+Southern Wesleyan Warriors:284.480000
+Syracuse Orange:2223.799000
+Texas A&M-International Dustdevils:160.506000
+Texas A&M-Corpus Christi Islanders:1609.381500
+Tarleton State Texans:1506.704000
+TCU Horned Frogs:1869.000692
+Temple Owls:1045.864000
+Tennessee Volunteers:2081.090308
+Tennessee State Tigers:1562.004565
+Tennessee Tech Golden Eagles:2086.559000
+UT Martin Skyhawks:1612.242000
+Toccoa Falls Eagles:229.363000
+Toledo Rockets:3285.468897
+Towson Tigers:1141.510667
+Trevecca Nazarene Trojans:111.413000
+Troy Trojans:2083.078286
+Truman State Bulldogs:162.170000
+Tulane Green Wave:1522.002174
+Tulsa Golden Hurricane:1681.532565
+Transylvania Pioneers:256.761000
+Tusculum Pioneers:157.358000
+Tuskegee Golden Tigers:154.782000
+Texas Longhorns:2717.625538
+UT Arlington Mavericks:2273.972615
+Texas A&M Aggies:1195.493333
+Texas-Permian Basin Falcons:244.037000
+Texas Southern Tigers:2049.766000
+Texas State Bobcats:1713.472000
+Texas Tech Red Raiders:2085.290444
+UAB Blazers:2154.454448
+UC Davis Aggies:1335.966667
+UCF Knights:1726.263391
+UC Irvine Anteaters:1998.511444
+UCLA Bruins:2030.540923
+Connecticut Huskies:1676.325000
+UC Riverside Highlanders:1780.811364
+California-San Diego Tritons:1447.696588
+Kentucky Wildcats:1837.214000
+Massachusetts Minutemen:1238.607000
+UMBC Retrievers:1469.326000
+Kansas City Roos:1622.696826
+UNLV Runnin' Rebels:2183.257333
+USC Trojans:2358.303207
+UC Santa Barbara Gauchos:2216.969923
+US Merchant Marine Academy Mariners:82.272000
+Utah Runnin' Utes:1984.357000
+Utah State Aggies:2268.380857
+Utah Valley Wolverines:1642.144000
+UTEP Miners:1805.683500
+Texas-Rio Grande Valley Vaqueros:1379.779158
+UTSA Roadrunners:2305.696154
+Valparaiso Brown and Gold:1977.114571
+VMI Keydets:2666.713000
+Vanguard Lions:165.087000
+Vanderbilt Commodores:2197.275000
+VA Wesleyan Blue Marlins:123.146000
+VCU Rams:2100.723308
+Vermont Catamounts:1185.053000
+Villanova Wildcats:1944.249727
+Virginia Cavaliers:1999.256500
+Virginia Tech Hokies:1689.269714
+Wagner Seahawks:1423.435000
+Wake Forest Demon Deacons:1652.097273
+Washington Huskies:1908.888000
+Washington State Cougars:2146.971333
+Milwaukee Panthers:1728.365727
+Western Carolina Catamounts:2407.796000
+Webber International Warriors:103.540000
+Weber State Wildcats:2264.263739
+Westmont Warriors:223.592000
+Whitworth Pirates:176.656000
+Wichita State Shockers:1664.796286
+William Carey Crusaders:197.244000
+William Jewell Cardinals:157.232000
+Western Illinois Leathernecks:1631.099364
+Wingate Bulldogs:140.290000
+Winthrop Eagles:2240.151000
+Wisconsin Badgers:2426.288690
+William Jessup Warriors:310.809000
+Western Kentucky Hilltoppers:2247.885556
+William & Mary Tribe:1099.136882
+Western Michigan Broncos:1321.551857
+Montana-Western Bulldogs:165.708000
+West New Mexico  Mustangs:111.918000
+Wofford Terriers:2324.663500
+Warner Pacific College Knights:248.671000
+Wright State Raiders:2317.724000
+Washburn Ichabods:125.063000
+Westminster (UT) Griffins:267.629000
+West Virginia Mountaineers:2290.985778
+West Virginia Tech Golden Bears:235.587000
+Wyoming Cowboys:2408.718000
+Xavier Musketeers:1723.802286
+Yellowstone Christian College Centurions:185.023000
+Youngstown State Penguins:2323.453000
