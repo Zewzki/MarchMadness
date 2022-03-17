@@ -1,0 +1,36 @@
+West
+Gonzaga Bulldogs:Arizona Wildcats
+Boise State Broncos:Memphis Tigers
+Connecticut Huskies:New Mexico State Aggies
+Arkansas Razorbacks:Vermont Catamounts
+Alabama Crimson Tide:Rutgers Scarlet Knights
+Texas Tech Red Raiders:Montana State Bobcats
+Michigan State Spartans:Davidson Wildcats
+Duke Blue Devils:Cal State Fullerton Titans
+@East
+Baylor Bears:Norfolk State Spartans
+North Carolina Tar Heels:Marquette Golden Eagles
+Saint Mary's Gaels:Wyoming Cowboys
+UCLA Bruin:Akron Zips
+Texas Longhorns:Virginia Tech Hokies
+Purdue Boilermakers:Yale Bulldogs
+Murray State Racers:San Francisco Dons
+Kentucky Wildcats:Saint Peter's Peacocks
+@South
+Arizona Wildcats:Wright State Raiders
+Seton Hall Pirates:TCU Horned Frogs
+Houston Cougars:UAB Blazers
+Illinois Fighting Illini:Chattanooga Mocs
+Colorado State Rams:Michigan Wolverines
+Tennessee Volunteers:Longwood Lancers
+Ohio State Buckeyes:Loyola Chicago Ramblers
+Villanova Wildcats:Delaware Fightin' Blue Hens
+@Midwest
+Kansas Jayhawks:Texas Southern Tigers
+San Diego State Aztecs:Creighton Bluejays
+Iowa Hawkeyes:Richmond Spiders
+Providence Friars:South Dakota State Jackrabbits
+LSU Tigers:Iowa State Cyclones
+Wisconsin Badgers:Colgate Raiders
+USC Trojans:Miami (FL) Hurricanes
+Auburn Tigers:Jacksonville State Tigers

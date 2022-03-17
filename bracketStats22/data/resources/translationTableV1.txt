@@ -489,5 +489,6 @@ West Virginia Mountaineers,WVIR,107
 West Virginia Tech Golden Bears,WVT,1087
 Wyoming Cowboys,WYOM,219
 Xavier Musketeers,XAV,59
+Yale Bulldogs, YALE, 1103
 Yellowstone Christian College Centurions,YCC,1082
 Youngstown State Penguins,YNGST,155
