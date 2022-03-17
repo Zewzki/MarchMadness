@@ -1,0 +1,36 @@
+West
+Gonzaga:Norfolk St
+Oklahoma:Missouri
+Creighton:UCSB
+Virginia:Ohio
+USC:Drake
+Kansas:E Washington
+Oregon:VCU
+Iowa:Grd Canyon
+South
+Baylor:Hartford
+N Carolina:Wisconsin
+Villanova:Winthrop
+Purdue:North Texas
+Texas Tech:Utah State
+Arkansas:Colgate
+Florida:VA Tech
+Ohio State:Oral Roberts
+East
+Michigan:Texas So
+LSU:St Bonavent
+Colorado:Georgetown
+Florida St:UNCG
+BYU:UCLA
+Texas:Abl Christian
+Connecticut:Maryland
+Alabama:Iona
+Midwest
+Illinois:Drexel
+Loyola-Chi:GA Tech
+Tennessee:Oregon St
+Oklahoma St:Liberty
+San Diego St:Syracuse
+W Virginia:Morehead St
+Clemson:Rutgers
+Houston:Cleveland St

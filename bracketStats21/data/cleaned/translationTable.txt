@@ -1,0 +1,493 @@
+Abilene Christian Wildcats,ABCHR,296
+Adrian College Bulldogs,ACB,1067
+Arizona Christian Firestorm,ACU,1064
+Adams State University Grizzlies,ADAMS,1032
+Air Force Falcons,AIRF,221
+Akron Zips,AKRON,177
+Alabama Crimson Tide,ALA,275
+Alabama A&M Bulldogs,ALAAM,309
+Alabama State Hornets,ALAST,311
+Albany Great Danes,ALBNY,13
+Alice Lloyd College Eagles,ALCE,849
+Alcorn State Braves,ALCST,307
+American University Eagles,AMERCN,265
+Appalachian State Mountaineers,APPLST,331
+Arlington Baptist Patriots,ARBAP,772
+Arkansas Razorbacks,ARK,276
+Arkansas State Red Wolves,ARKST,327
+Little Rock Trojans,ARLR,323
+Army West Point Black Knights,ARMY,263
+UAPB Golden Lions,ARPB,310
+Arizona Wildcats,ARZ,247
+Arizona State Sun Devils,ARZST,255
+Auburn Tigers,AUBRN,279
+Austin Peay Governors,AUSP,242
+Belmont Abbey Crusaders,BAC,958
+Ball State Cardinals,BALLST,184
+Baylor Bears,BAYL,108
+Bluefield College Ramblin' Rams,BCRR,1048
+Belhaven Blazers,BEL,1028
+Bellarmine Knights,BELLA,1025
+Belmont Bruins,BELM,233
+Benedictine College Ravens,BENCR,826
+Benedictine Mesa Redhawks,BENE,458
+Bethesda Flames,BETH,412
+Binghamton Bearcats,BING,20
+Bluefield State Big Blues,BLUE,929
+Boise State Broncos,BOISE,215
+Boston College Eagles,BOSCOL,35
+Boston University Terriers,BOSTU,259
+Bowling Green Falcons,BOWLGR,181
+Bradley Braves,BRADLY,210
+Bryant Bulldogs,BRYANT,231
+Bethel (TN) Wildcats,BTHTN,753
+Bucknell Bison,BUCK,257
+Buffalo Bulls,BUF,179
+Butler Bulldogs,BUTL,64
+Bacone Warriors,BW,790
+BYU Cougars,BYU,336
+California Baptist Lancers,CABAP,394
+California Golden Bears,CAH,251
+Cal Poly Mustangs,CALPOL,122
+Calvin Knights,CALVIN,1068
+Campbell Fighting Camels,CAMP,90
+Canisius Golden Griffins,CANS,172
+Central Arkansas Bears,CARK,298
+Carlow University Celtics,CARLOW,1042
+Carver College Cougars,CARV,449
+Catawba Indians,CATA,1074
+Central Baptist College Mustangs,CBAPM,827
+College of Coastal Georgia Mariners,CCGA,1051
+Champion Christian College Tigers,CCT,400
+Cedarville Yellow Jackets,CDRVL,503
+Central Connecticut State Blue Devils,CENCON,232
+Charleston Cougars,CHAR,129
+Charlotte 49ers,CHARLT,142
+Chattanooga Mocs,CHAT,281
+Chicago St. Cougars,CHIST,351
+Chowan Hawks,CHOW,971
+Charleston Southern Buccaneers,CHSOU,88
+College of Idaho Coyotes,CIDAH,422
+Cincinnati Bearcats,CIN,4
+Citadel Bulldogs,CITA,288
+Clemson Tigers,CLMSN,27
+Cleveland State Vikings,CLVST,156
+Central Michigan Chippewas,CMICH,185
+Coastal Carolina Chanticleers,COAST,81
+Coe Kohawks,COE,493
+Colorado Buffaloes,COL,250
+Colorado Christian Cougars,COLCHR,644
+Colgate Raiders,COLG,261
+Colorado State Rams,COLST,217
+Coppin State Eagles,COPPST,200
+Covenant Scots,COVENA,476
+Crowley's Ridge College Pioneers,CRC,1017
+Creighton Bluejays,CREIGH,61
+Columbus State Cougars,CSC,1044
+Bakersfield Roadrunners,CSU,346
+Cal State Fullerton Titans,CSUFL,123
+CSUN Matadors,CSUNR,121
+Colorado State-Pueblo ThunderWolves,CSUP,1081
+Campbellsville University Harrodsburg Pioneers,CSVILLE,1088
+Concordia-Irvine Eagles,CUI,1006
+Culver-Stockton Wildcats,CULV,834
+Dallas Christian Crusaders,DALCHR,752
+Davidson Wildcats,DAVID,49
+Dayton Flyers,DAY,44
+Dickinson State Blue Hawks,DCKSNS,760
+Delaware Fightin' Blue Hens,DEL,133
+Delaware State Hornets,DELST,201
+Denver Pioneers,DEN,319
+DePaul Blue Demons,DEPAUL,66
+Detroit Titans,DET,153
+Doane Doane,DOANE,970
+Drake Bulldogs,DRAKE,211
+Drexel Dragons,DREXEL,132
+Dalton State Roadrunners,DSR,1083
+Duke Blue Devils,DUKE,26
+Duquesne Dukes,DUQ,51
+Dixie State Trailblazers,DXST,750
+East Carolina Pirates,ECAR,9
+Eastern Illinois Panthers,EILL,239
+Eastern Kentucky Colonels,EKENT,237
+Elon Phoenix,ELON,130
+Eastern Michigan Eagles,EMICH,187
+Emmanuel Lions,EMM,1043
+Emporia St. Hornets,EMPST,352
+East Tennessee State Buccaneers,ETNST,282
+East Texas Baptist Tigers,ETXBAP,621
+Evansville Aces,EVANS,203
+Eastern Washington Eagles,EWASH,70
+Edward Waters Tigers,EWATER,703
+Fairfield Stags,FAIR,170
+Fairleigh Dickinson Knights,FAIRDK,224
+Fort Hays State Tigers,FHSU,1080
+Florida Gators,FL,271
+Flagler Saints,FLAG,886
+Florida A&M Rattlers,FLAM,198
+Florida Atlantic Owls,FLATL,145
+Florida College Falcons,FLCOL,459
+FGCU Eagles,FLGC,38
+FIU Golden Panthers,FLINT,140
+Florida Memorial Lions,FLMEM,469
+Florida National Conquistadors,Flor,757
+Florida State Seminoles,FLST,29
+Fordham Rams,FORDM,53
+Fresno Pacific Sunbirds,FPS,932
+Freed-Hardeman Lions,FREEDL,811
+Fresno State Bulldogs,FREST,213
+Furman Paladins,FURMAN,283
+Georgia Bulldogs,GA,272
+Gardner-Webb Runnin' Bulldogs,GARDWB,83
+Georgia Southern Eagles,GAS,329
+Georgia State Panthers,GAST,328
+Green Bay Phoenix,GB,152
+Greensboro Pride,GBP,397
+Grand Canyon Antelopes,GCAN,345
+Georgetown Hoyas,GEORGE,62
+George Washington Colonials,GEOWS,48
+George Mason Patriots,GMSN,56
+Gonzaga Bulldogs,GNZG,334
+Greenville Panthers,GREENP,1071
+George Fox Bruins,GRGF,1097
+Grambling State Tigers,GRMBST,312
+Georgia Tech Yellow Jackets,GTECH,32
+Hampton Pirates,HAMP,189
+Hartford Hawks,HARTFD,18
+Hawaii Rainbow Warriors,HAWAII,115
+Hardin-Simmons Cowboys,HDSM,354
+Hawaii Hilo Vulcans,HHILO,403
+Hawaii Pacific Sharks,HIPACI,743
+Hofstra Pride,HOFST,128
+Holy Cross Crusaders,HOLY,264
+Houston Cougars,HOU,6
+Houston Baptist Huskies,HOUBAP,293
+Howard Payne Yellow Jackets,HOWP,471
+Howard Bison,HOWRD,195
+High Point Panthers,HPNT,85
+Idaho Vandals,IDAHO,73
+Idaho State Bengals,IDHST,72
+Illinois Fighting Illini,ILL,102
+UIC Flames,ILLCHI,157
+Illinois State Redbirds,ILLST,204
+Incarnate Word Cardinals,INCAR,294
+Indiana Hoosiers,IND,93
+Indiana State Sycamores,INDST,207
+Iona Gaels,IONA,167
+Iowa Hawkeyes,IOWA,91
+Iowa State Cyclones,IOWAST,110
+Purdue Fort Wayne Mastodons,IPFW,315
+IUPUI Jaguars,IUPUI,317
+Jackson State Tigers,JACKST,306
+Jacksonville Dolphins,JAX,37
+Jacksonville State Gamecocks,JAXST,238
+Judson Eagles,JDSNE,800
+James Madison Dukes,JMAD,126
+Kansas Jayhawks,KAN,106
+Kansas State Wildcats,KANST,112
+Keene State Owls,KEENE,1059
+Kennesaw State Owls,KENEST,42
+Columbia International Rams,KENN,632
+Kent State Golden Flashes,KENTST,178
+Lafayette Leopards,LAFAY,266
+Lamar Cardinals,LAMAR,303
+Louisiana-Monroe Warhawks,LAMON,326
+Lander Bearcats,LAND,961
+La Salle Explorers,LASAL,57
+La Sierra University Golden Eagles,LASU,1077
+Lancaster Bible College Chargers,LBC,1035
+Long Beach State 49ers,LBST,117
+Lee University Flames,LEEU,1090
+Lehigh Mountain Hawks,LEHI,260
+Le Tourneau Yellow Jackets,LETYJ,853
+Lewis Flyers,LEWIS,989
+Liberty Flames,LIBRTY,84
+Limestone Saints,LIME,1034
+Lincoln (PA) Lions,LINCOL,712
+Lipscomb Bisons,LIPSC,40
+LIU Brooklyn Sharks,LIUB,229
+Longwood Lancers,LONGWD,87
+Louisville Cardinals,LOU,24
+Louisiana-Lafayette Ragin' Cajuns,LOULAF,324
+Louisiana Tech Bulldogs,LOUTCH,137
+Loyola Chicago Ramblers,LOYCH,209
+Loyola Maryland Greyhounds,LOYMD,262
+Loyola Marymount Lions,LOYMRY,343
+Loyola (LA) Wolfpack,LOYOLO,430
+LSU Tigers,LSU,269
+LSU-Alexandria General,LSUAG,829
+Maine Black Bears,MAINE,17
+Malone University Pioneers,Malone,889
+Manhattan Jaspers,MANH,171
+Marist Red Foxes,MARIST,176
+Marquette Golden Eagles,MARQ,65
+Mars Hill Lions,MARS,606
+Marshall Thundering Herd,MARSH,136
+Mount Marty Lancers,MARTY,950
+Maryland Terrapins,MARY,92
+Massachusetts-Lowell River Hawks,MASLOW,16
+McKendree Bearcats,MCKEND,702
+McMurry War Hawks,MCMR,748
+McNeese State Cowboys,MCNST,299
+Mercer Bears,MERC,284
+Merrimack College Warriors,MERRI,817
+Mary Hardin-Baylor Crusaders,MHB,1040
+Morehead State Eagles,MHST,236
+Miami (FL) Hurricanes,MIA,23
+Miami (OH) RedHawks,MIAOH,182
+Michigan Wolverines,MICH,95
+Midwestern State Mustangs,MIDWS,1054
+Minnesota Golden Gophers,MINNST,104
+Ole Miss Rebels,MISS,274
+Missouri Tigers,MISSR,280
+Mobile Rams,MOBILE,468
+Monmouth Hawks,MONM,166
+Montana State Bobcats,MONST,74
+Montana Grizzlies,MONT,68
+Morgan State Bears,MORGST,199
+Missouri Science & Technology Miners,MOSCT,457
+Memphis Tigers,MPHS,7
+Mercyhurst Lakers,MRCY,1062
+Mt. St. Joseph Lions,MSJ,975
+Mississippi State Bulldogs,MSPST,278
+Missouri State Bears,MSRST,208
+Michigan State Spartans,MST,97
+Mount St. Mary's Mountaineers,MSTM,226
+Mississippi Valley State Delta Devils,MSVLST,308
+Mount Aloysius Mounties,MTAL,706
+Middle Tennessee Blue Raiders,MTNST,135
+Murray State Racers,MURST,240
+North Alabama Lions,NAL,396
+Northern Arizona Lumberjacks,NARZ,79
+Navy Midshipmen,NAVY,258
+Newberry Indians,NBRI,858
+North Carolina Tar Heels,NCAR,21
+UNC Asheville Bulldogs,NCASHE,80
+North Carolina A&T Aggies,NCAT,196
+North Carolina Central Eagles,NCC,197
+UNCG Spartans,NCG,286
+Northern Colorado Bears,NCOL,75
+North Carolina State Wolfpack,NCST,33
+UNCW Seahawks,NCW,124
+North Carolina Wesleyan Battling Bishops,NCWESL,465
+Notre Dame Fighting Irish,ND,25
+North Dakota Fighting Hawks,NDAK,71
+North Dakota State Bison,NDKST,318
+Northeastern Huskies,NEAST,131
+Nebraska Cornhuskers,NEBR,99
+Omaha Mavericks,NEOM,316
+Northeastern State RiverHawks,NESTST,1100
+Nevada Wolf Pack,NEVADA,216
+Newman Jets,NEWM,1066
+North Florida Ospreys,NFL,36
+North Georgia Saints,NG,1033
+New Hampshire Wildcats,NHAMP,14
+Niagara Purple Eagles,NIAGRA,175
+Nicholls Colonels,NICHLS,302
+Northern Illinois Huskies,NILL,186
+UNI Panthers,NIOWA,206
+NJIT Highlanders,NJIT,39
+Northern Kentucky Norse,NKENT,154
+New Mexico Lobos,NMX,214
+New Mexico State Aggies,NMXST,344
+New Orleans Privateers,NO,297
+Norfolk State Spartans,NORFST,191
+North Texas Mean Green,NTX,141
+Northwestern Wildcats,NW,100
+Northwest University Eagles,NWCOLL,480
+Northwest Nazarene Crusaders,NWNAZA,738
+Northwestern State Demons,NWST,301
+Oakland Golden Grizzlies,OAK,149
+Oakwood Ambassadors,OAKA,859
+Ohio Bobcats,OHIO,180
+Ohio State Buckeyes,OHIOST,98
+Oklahoma Sooners,OKL,105
+Oklahoma State Cowboys,OKST,113
+Old Dominion Monarchs,OLD,138
+Olivet College Comets,OLIVE,832
+Our Lady of the Lake Saints,OLLU,660
+Overland Park Kansas Christian Falcons,OPKC,1089
+Oral Roberts Golden Eagles,ORAL,320
+Oregon Ducks,ORE,245
+Oregon State Beavers,OREGST,252
+Pacific Tigers,PACFC,339
+Penn State Nittany Lions,PENNST,101
+Pepperdine Waves,PEPP,337
+Piedmont Lions,PIEDMO,488
+Pittsburgh Panthers,PITT,28
+Portland Pilots,PORT,340
+Portland State Vikings,PORTST,76
+Point Park Pioneers,PPU,1031
+Paul Quinn Tigers,PQT,843
+Presbyterian Blue Hose,PRESB,89
+Providence Friars,PROV,63
+Purdue Northwest Pride,PUCA,747
+Purdue Boilermakers,PUR,94
+Prairie View A&M Panthers,PVAM,313
+Quincy Hawks,QNCY,682
+Queens NC Royals,QUEEN,962
+Quinnipiac Bobcats,QUIN,174
+Radford Highlanders,RADF,86
+Rhode Island Rams,RI,50
+Rhode Island College Anchormen,RIC,1039
+Rice Owls,RICE,146
+Richmond Spiders,RICH,52
+Rider Broncs,RIDER,173
+Robert Morris Colonials,ROBMS,230
+Rochester (MI) Warriors,ROCHMI,605
+Rogers State Hillcats,ROGERS,926
+Regis Rangers,RUR,1010
+Rust College Bearcats,RUST,415
+Rutgers Scarlet Knights,RUTGER,103
+Sacred Heart Pioneers,SACRED,227
+Sacramento State Hornets,SACST,77
+SAGU American Indian College Warriors,SAGU,943
+South Alabama Jaguars,SALA,330
+Salem Tigers,SALEM,1070
+Samford Bulldogs,SAMF,289
+Santa Clara Broncos,SANCLR,341
+South Carolina Gamecocks,SC,267
+South Carolina State Bulldogs,SCARST,190
+USC Upstate Spartans,SCUP,43
+San Diego Toreros,SD,342
+South Dakota Coyotes,SDAK,321
+San Diego Christian Hawks,SDCHR,409
+South Dakota State Jackrabbits,SDKST,314
+San Diego State Aztecs,SDST,212
+Seattle Redhawks,SEA,347
+Southeastern Louisiana Lions,SELOU,300
+Southeast Missouri State Redhawks,SEMST,243
+Seton Hall Pirates,SETON,60
+San Francisco Dons,SF,338
+Stephen F. Austin Lumberjacks,SFAUS,291
+South Florida Bulls,SFL,11
+LSU-Shreveport Pilots,SHRE,1036
+Siena Saints,SIENA,168
+Southern Illinois Salukis,SILL,205
+Simpson University (CA) Red Hawks,SIMP,663
+SIUE Cougars,SIUE,244
+San Jose State Spartans,SJST,222
+Saint Katherine College Firebirds,SKCF,814
+Sam Houston State Bearkats,SMHO,295
+SMU Mustangs,SMU,1
+Southern Miss Golden Eagles,SOUMIS,143
+Southern University Jaguars,SOUTH,305
+Spring Hill Badgers,SPHIL,470
+St. Ambrose Fighting Bees,STAMB,1063
+Stanford Cardinal,STAN,254
+St. Andrews Presbyterian Knights,STANDR,647
+St. Bonaventure Bonnies,STBON,47
+Stony Brook Seawolves,STBR,12
+St. Louis College of Pharmacy Eutectic,STE,878
+Stetson Hatters,STETSN,41
+St. Francis Brooklyn Terriers,STF,228
+Saint Francis U Red Flash,STFPA,225
+St. Francis (IL) Fighting Saints,STFR,483
+Saint Joseph's Hawks,STJOE,46
+St. John's Red Storm,STJOHN,67
+Saint Louis Billikens,STLOU,54
+St. Mary's (MD) Seahawks,STMAMD,485
+St. Mary's (TX) Rattlers,STMATX,735
+Saint Mary's Gaels,STMRY,335
+St Martins Saints,STMS,1091
+Saint Peter's Peacocks,STPETE,169
+Sul Ross State Lobos,SUL,972
+Southern Utah Thunderbirds,SUTAH,78
+Southern Virginia Knights,SVK,1098
+Southwest Adventist Knights,SWAD,1096
+SW Christian University Eagles,SWCU,936
+Southern Wesleyan Warriors,SWESLE,731
+Syracuse Orange,SYRA,30
+Texas A&M-International Dustdevils,TAMI,766
+Texas A&M-Corpus Christi Islanders,TAMU,292
+Tarleton State Texans,TARL,1024
+TCU Horned Frogs,TCU,114
+Temple Owls,TEMPL,2
+Tennessee Volunteers,TENN,277
+Tennessee State Tigers,TENST,235
+Tennessee Tech Golden Eagles,TENTCH,234
+UT Martin Skyhawks,TMRT,241
+Toccoa Falls Eagles,TOCCOA,942
+Toledo Rockets,TOLEDO,183
+Towson Tigers,TOWS,127
+Trevecca Nazarene Trojans,TRENAZ,697
+Troy Trojans,TROY,333
+Truman State Bulldogs,TRUST,443
+Tulane Green Wave,TULANE,10
+Tulsa Golden Hurricane,TULSA,5
+Transylvania Pioneers,TUP,1047
+Tusculum Pioneers,TUSC,1058
+Tuskegee Golden Tigers,TUSK,665
+Texas Longhorns,TX,109
+UT Arlington Mavericks,TXA,325
+Texas A&M Aggies,TXAM,270
+Texas-Permian Basin Falcons,TXPB,431
+Texas Southern Tigers,TXS,304
+Texas State Bobcats,TXST,332
+Texas Tech Red Raiders,TXTECH,111
+UAB Blazers,UAB,134
+UC Davis Aggies,UCDV,118
+UCF Knights,UCF,8
+UC Irvine Anteaters,UCIRV,116
+UCLA Bruins,UCLA,253
+Connecticut Huskies,UCONN,3
+UC Riverside Highlanders,UCRVS,120
+California-San Diego Tritons,UCSD,1007
+Kentucky Wildcats,UK,268
+Massachusetts Minutemen,UMASS,55
+UMBC Retrievers,UMBC,19
+Kansas City Roos,UMKC,362
+UNLV Runnin' Rebels,UNLV,218
+USC Trojans,USC,246
+UC Santa Barbara Gauchos,USCB,119
+US Merchant Marine Academy Mariners,USMMA,1069
+Utah Runnin' Utes,UTAH,248
+Utah State Aggies,UTAHST,220
+Utah Valley Wolverines,UTAHV,348
+UTEP Miners,UTEP,139
+Texas-Rio Grande Valley Vaqueros,UTRGV,350
+UTSA Roadrunners,UTSA,147
+Valparaiso Brown and Gold,VALP,148
+VMI Keydets,VAMIL,290
+Vanguard Lions,VAN,987
+Vanderbilt Commodores,VAND,273
+VA Wesleyan Blue Marlins,VAW,1030
+VCU Rams,VCU,45
+Vermont Catamounts,VERM,15
+Villanova Wildcats,VILL,58
+Virginia Cavaliers,VIR,22
+Virginia Tech Hokies,VTECH,31
+Wagner Seahawks,WAG,223
+Wake Forest Demon Deacons,WAKE,34
+Washington Huskies,WASH,249
+Washington State Cougars,WASHST,256
+Milwaukee Panthers,WBD,151
+Western Carolina Catamounts,WCAR,287
+Webber International Warriors,WEBBER,637
+Weber State Wildcats,WEBST,69
+Westmont Warriors,WESTMOW,813
+Whitworth Pirates,WHW,1092
+Wichita State Shockers,WICHST,202
+William Carey Crusaders,WILCAR,404
+William Jewell Cardinals,WILJ,872
+Western Illinois Leathernecks,WILL,322
+Wingate Bulldogs,WING,1093
+Winthrop Eagles,WINTH,82
+Wisconsin Badgers,WISC,96
+William Jessup Warriors,WJU,467
+Western Kentucky Hilltoppers,WKENT,144
+William & Mary Tribe,WM,125
+Western Michigan Broncos,WMICH,188
+Montana-Western Bulldogs,WMT,411
+West New Mexico  Mustangs,WNM,903
+Wofford Terriers,WOFF,285
+Warner Pacific College Knights,WPCK,840
+Wright State Raiders,WRGHT,150
+Washburn Ichabods,WSHB,1065
+Westminster (UT) Griffins,WSTMUT,633
+West Virginia Mountaineers,WVIR,107
+West Virginia Tech Golden Bears,WVT,1087
+Wyoming Cowboys,WYOM,219
+Xavier Musketeers,XAV,59
+Yellowstone Christian College Centurions,YCC,1082
+Youngstown State Penguins,YNGST,155
