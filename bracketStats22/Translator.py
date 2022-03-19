@@ -34,6 +34,18 @@ class Translator:
 		return self.__nameToAbbrev[name]
 
 	def idToName(self, ID):
+		if ID not in self.__idToName:
+			name = f'UnknownTeam{ID}'
+			abbrev = f'UT{ID}'
+			with open(self.path, 'a') as f:
+				f.write(f'{name},{abbrev},{ID}\n')
+			self.__nameToAbbrev[name] = abbrev
+			self.__nameToId[name] = ID
+			self.__abbrevToName[abbrev] = name
+			self.__abbrevToId[abbrev] = ID
+			self.__idToName[ID] = name
+			self.__idToAbbrev[ID] = abbrev
+		
 		return self.__idToName[ID]
 
 	def nameToId(self, name):
