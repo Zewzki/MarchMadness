@@ -110,7 +110,7 @@ class GameCollector:
 
 			startDay += 1
 
-			time.sleep(self.__sleepTime)
+			#time.sleep(self.__sleepTime)
 
 		print('All Dates Retrieved')
 
