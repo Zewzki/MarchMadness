@@ -1,0 +1,47 @@
+<Bracket>
+    <Title>March Madness 2022 Prediction</Title>
+    <Creator>Michael Wisnewski</Creator>
+
+    <Bracket>
+        <Title>Finalist 1</Title>
+        <Bracket>
+            <Title>Elite8 West</Title>
+            <Bracket>
+                <Title>Sweet16 1</Title>
+                <Bracket>
+                    <Title>Round 2 Game 1</Title>
+                    <Bracket>
+                        <Title>Round 1 Game 1</Title>
+                    </Bracket>
+                    <Bracket>
+                        <Title>Round 1 Game 2</Title>
+                    </Bracket>
+                </Bracket>
+                <Bracket>
+                    <Title>Round 2 Game 2</Title>
+                </Bracket>
+                <WinningTeamName>NA</WinningTeamName>
+            <Bracket>
+            <Bracket>
+                <Title>Sweet16 2</Title>
+            </Bracket>
+            <WinningTeamName></WinningTeamName>
+        </Bracket>
+        <Bracket>
+            <Title>Elite8 East</Title>
+            <Bracket>
+                <Title>Sweet16 1</Title>
+            <Bracket>
+            <Bracket>
+                <Title>Sweet16 2</Title>
+            </Bracket>
+            <WinningTeamName></WinningTeamName>
+        </Bracket>
+        <WinningTeamName>NA</WinningTeamName>
+    </Bracket>
+    <Bracket>
+        <Title>Finalist 2</Title>
+    </Bracket>
+    <WinningTeamName>NA</WinningTeamName>
+
+</Bracket>
