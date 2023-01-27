@@ -1,0 +1,560 @@
+{
+
+    "America East Conference": {
+        "abbreviation": "America East",
+        "teams": [
+            "Vermont",
+            "UMBC",
+            "Stony Brook",
+            "New Hampshire",
+            "Albany (NY)",
+            "Hartford",
+            "Binghamton",
+            "UMass Lowell",
+            "NJIT",
+            "Maine"
+        ]
+    },
+
+    "American Conference": {
+        "abbreviation": "American",
+        "teams": [
+            "Houston",
+            "SMU",
+            "Memphis",
+            "Temple",
+            "Tulane",
+            "UCF",
+            "Wichita State",
+            "Cincinnati",
+            "East Carolina",
+            "Tulsa",
+            "South Florida"
+        ] 
+    },
+
+    "ASUN Conference (East)": {
+        "abbreviation": "ASUN",
+        "teams": [
+            "Liberty",
+            "Jacksonville",
+            "Florida Gulf Coast",
+            "Kennesaw State",
+            "North Florida",
+            "Stetson",
+            "Jacksonville State",
+            "Bellarmine",
+            "Central Arkansas",
+            "Lipscomb",
+            "Eastern Kentucky",
+            "North Alabama",
+            "Queens (NC)"
+        ]
+    },
+
+    "Atlantic 10 Conference": {
+        "abbreviation": "Atlantic 10",
+        "teams": [
+            "Davidson",
+            "VCU",
+            "Dayton",
+            "St Bonaventure",
+            "St Louis",
+            "Richmond",
+            "George Washington",
+            "Fordham",
+            "George Mason",
+            "La Salle",
+            "St Josephs",
+            "Duquesne",
+            "UMass",
+            "Loyola (IL)",
+            "Rhode Island"
+        ]
+    },
+
+    "Atlantic Coast Conference": {
+        "abbreviation": "ACC",
+        "teams": [
+            "Duke",
+            "UNC",
+            "Notre Dame",
+            "Miami (FL)",
+            "Wake Forest",
+            "Virginia",
+            "Virginia Tech",
+            "Florida State",
+            "Syracuse",
+            "Clemson",
+            "Louisville",
+            "Boston College",
+            "Pitt",
+            "Georgia Tech",
+            "NC State"
+        ]
+    },
+
+    "Big 12": {
+        "abbreviation": "Big 12",
+        "teams": [
+            "Kansas",
+            "Baylor",
+            "Texas Tech",
+            "Texas",
+            "TCU",
+            "Oklahoma State",
+            "Iowa State",
+            "Oklahoma",
+            "Kansas State",
+            "West Virginia"
+        ]
+    },
+
+    "Big East Conference": {
+        "abbreviation": "Big East",
+        "teams": [
+            "Providence",
+            "Villanova",
+            "UConn",
+            "Creighton",
+            "Seton Hall",
+            "Marquette",
+            "Xavier",
+            "St Johns (NY)",
+            "DePaul",
+            "Butler",
+            "Georgetown"
+        ]
+    },
+
+    "Big Sky": {
+        "abbreviation": "Big Sky",
+        "teams": [
+            "Montana State",
+            "Southern Utah",
+            "Weber State",
+            "Northern Colorado",
+            "Montana",
+            "Eastern Washington",
+            "Portland State",
+            "Sacramento State",
+            "Idaho",
+            "Northern Arizona",
+            "Idaho State"
+        ]
+    },
+
+    "Big South": {
+        "abbreviation": "Big South",
+        "teams": [
+            "Longwood",
+            "Campbell",
+            "High Point",
+            "Radford",
+            "North Carolina A T",
+            "Hampton",
+            "Winthrop",
+            "Gardner Webb",
+            "South Carolina Upstate",
+            "UNC Asheville",
+            "Presbyterian",
+            "Charleston Southern",
+            "USC Upstate"
+        ]
+    },
+
+    "Big Ten Conference": {
+        "abbreviation": "B1G",
+        "teams": [
+            "Wisconsin",
+            "Illinois",
+            "Purdue",
+            "Iowa",
+            "Ohio State",
+            "Rutgers",
+            "Michigan State",
+            "Michigan",
+            "Indiana",
+            "Northwestern",
+            "Maryland",
+            "Penn State",
+            "Minnesota",
+            "Nebraska"
+        ]
+    },
+
+    "Big West Conference": {
+        "abbreviation": "Big West",
+        "teams": [
+            "Long Beach State",
+            "Cal State Fullerton",
+            "Hawaii",
+            "UC Irvine",
+            "UCSB",
+            "UC Riverside",
+            "UC Davis",
+            "Cal State Northridge",
+            "Cal State Bakersfield",
+            "Cal Poly",
+            "UC San Diego"
+        ]
+    },
+ 
+    "Colonial Athletic Association": {
+        "abbreviation": "CAA",
+        "teams": [
+            "UNC Wilmington",
+            "Towson",
+            "Hofstra",
+            "Delaware",
+            "Drexel",
+            "College of Charleston",
+            "Elon",
+            "James Madison",
+            "William   Mary",
+            "Northeastern"
+        ]
+    },
+
+    "Conference USA": {
+        "abbreviation": "C-USA",
+        "teams": [
+            "Middle Tennessee",
+            "Western Kentucky",
+            "Florida Atlantic",
+            "Charlotte",
+            "Old Dominion",
+            "Florida International",
+            "Marshall",
+            "North Texas",
+            "UAB",
+            "Louisiana Tech",
+            "UTEP",
+            "Rice",
+            "UTSA",
+            "Southern Miss"
+        ]
+    },
+
+    "Horizon League": {
+        "abbreviation": "Horizon",
+        "teams": [
+            "Cleveland State",
+            "Purdue Fort Wayne",
+            "Northern Kentucky",
+            "Wright State",
+            "Oakland",
+            "Detroit",
+            "Youngstown State",
+            "UIC",
+            "Milwaukee",
+            "Robert Morris",
+            "Green Bay",
+            "IUPUI"
+        ]
+    },
+
+    "Ivy League": {
+        "abbreviation": "Ivy",
+        "teams": [
+            "Princeton",
+            "Yale",
+            "Penn",
+            "Cornell",
+            "Dartmouth",
+            "Harvard",
+            "Brown",
+            "Columbia"
+        ]
+    },
+
+    "Metro Atlantic Athletic Conference": {
+        "abbreviation": "MAAC",
+        "teams": [
+            "Iona",
+            "St Peters",
+            "Siena",
+            "Monmouth",
+            "Marist",
+            "Niagara",
+            "Manhattan",
+            "Fairfield",
+            "Rider",
+            "Quinnipiac",
+            "Canisius"
+        ]
+    },
+
+    "Mid-American Conference": {
+        "abbreviation": "MAC",
+        "teams": [
+            "Toledo",
+            "Kent State",
+            "Ohio",
+            "Akron",
+            "Buffalo",
+            "Ball State",
+            "Miami (OH)",
+            "Central Michigan",
+            "Bowling Green State",
+            "Northern Illinois",
+            "Eastern Michigan",
+            "Western Michigan"
+        ]
+    },
+
+    "Mid-Eastern Athletic Conference": {
+        "abbreviation": "MEAC",
+        "teams": [
+            "Norfolk State",
+            "Howard",
+            "North Carolina Central",
+            "Morgan State",
+            "South Carolina State",
+            "Maryland Eastern Shore",
+            "Coppin State",
+            "Delaware State"
+        ] 
+    },
+
+    "Missouri Valley Conference": {
+        "abbreviation": "MVC",
+        "teams": [
+            "Northern Iowa",
+            "Loyola Chicago",
+            "Drake",
+            "Missouri State",
+            "Bradley",
+            "Southern Illinois",
+            "Valparaiso",
+            "Illinois State",
+            "Indiana State",
+            "Evansville"
+        ]
+    },
+
+    "Mountain West Conference": {
+        "abbreviation": "MWC",
+        "teams": [
+            "Boise State",
+            "Colorado State",
+            "San Diego State",
+            "Wyoming",
+            "UNLV",
+            "Fresno State",
+            "Utah State",
+            "Nevada",
+            "New Mexico",
+            "Air Force",
+            "San Jose State"
+        ]
+    },
+
+    "Northeast Conference": {
+        "abbreviation": "NEC",
+        "teams": [
+            "Bryant",
+            "Wagner",
+            "LIU",
+            "Merrimack",
+            "Mount St Marys",
+            "St Francis (NY)",
+            "Sacred Heart",
+            "St Francis (PA)",
+            "Central Connecticut",
+            "Fairleigh Dickinson",
+            "Stonehill"
+        ] 
+    },
+
+    "Ohio Valley Conference": {
+        "abbreviation": "OVC",
+        "teams": [
+            "Murray State",
+            "Belmont",
+            "Morehead State",
+            "Southeast Missouri State",
+            "Tennessee State",
+            "Austin Peay",
+            "Tennessee Tech",
+            "SIU Edwardsville",
+            "UT Martin",
+            "Eastern Illinois",
+            "Lindenwood",
+            "Southern Indiana"
+        ]
+    },
+    
+    "Pac-12 Conference": {
+        "abbreviation": "Pac-12",
+        "teams": [
+            "Arizona",
+            "UCLA",
+            "USC",
+            "Colorado",
+            "Washington State",
+            "Oregon",
+            "Washington",
+            "Arizona State",
+            "Stanford",
+            "California",
+            "Utah",
+            "Oregon State"
+        ]
+    },
+
+    "Patriot League": {
+        "abbreviation": "Patriot",
+        "teams": [
+            "Colgate",
+            "Navy",
+            "Boston University",
+            "Lehigh",
+            "Army",
+            "Loyola (MD)",
+            "Lafayette",
+            "Holy Cross",
+            "American",
+            "Bucknell"
+        ]
+    },
+
+    "Southeastern Conference": {
+        "abbreviation": "SEC",
+        "teams": [
+            "Auburn",
+            "Tennessee",
+            "Kentucky",
+            "Arkansas",
+            "Texas A M",
+            "LSU",
+            "Florida",
+            "South Carolina",
+            "Alabama",
+            "Mississippi State",
+            "Vanderbilt",
+            "Missouri",
+            "Ole Miss",
+            "Georgia"
+        ]
+    },
+
+    "Southern Conference": {
+        "abbreviation": "SoCon",
+        "teams": [
+            "Chattanooga",
+            "Furman",
+            "Samford",
+            "Wofford",
+            "UNC Greensboro",
+            "VMI",
+            "Mercer",
+            "ETSU",
+            "The Citadel",
+            "Western Carolina"
+        ]
+    },
+
+    "Southland Conference": {
+        "abbreviation": "Southland",
+        "teams": [
+            "Nicholls State",
+            "New Orleans",
+            "Southeastern Louisiana",
+            "Texas A M Corpus Christi",
+            "Houston Christian",
+            "Northwestern State",
+            "McNeese State",
+            "Incarnate Word",
+            "Texas A M Commerce"
+        ]
+    },
+
+    "Southwestern Athletic Conference": {
+        "abbreviation": "SWAC",
+        "teams": [
+            "Alcorn State",
+            "Texas Southern",
+            "Southern",
+            "Florida A M",
+            "Alabama A M",
+            "Grambling",
+            "Jackson State",
+            "Alabama State",
+            "Prairie View",
+            "Bethune Cookman",
+            "Arkansas Pine Bluff",
+            "Mississippi Valley State"
+        ]
+    },
+
+    "Summit League": {
+        "abbreviation": "Summit",
+        "teams": [
+            "South Dakota State",
+            "North Dakota State",
+            "Oral Roberts",
+            "Kansas City",
+            "South Dakota",
+            "Western Illinois",
+            "Denver",
+            "St Thomas (MN)",
+            "Omaha",
+            "North Dakota"
+        ]
+    },
+
+    "Sun Belt Conference": {
+        "abbreviation": "Sun Belt",
+        "teams": [
+            "Texas State",
+            "Appalachian State",
+            "Georgia State",
+            "Troy",
+            "South Alabama",
+            "Arkansas State",
+            "Coastal Carolina",
+            "Louisiana",
+            "UT Arlington",
+            "Georgia Southern",
+            "Louisiana Monroe",
+            "Little Rock"
+        ]  
+    },
+
+    "West Coast Conference": {
+        "abbreviation": "WCC",
+        "teams": [
+            "Gonzaga",
+            "St Marys",
+            "Santa Clara",
+            "San Francisco",
+            "BYU",
+            "Portland",
+            "San Diego",
+            "Pacific",
+            "Loyola Marymount",
+            "Pepperdine"
+        ]
+    },
+
+    "Western Athletic Conference": {
+        "abbreviation": "WAC",
+        "teams": [
+            "New Mexico State",
+            "Seattle",
+            "Stephen F Austin",
+            "Grand Canyon",
+            "Sam Houston State",
+            "Abilene Christian",
+            "Utah Valley",
+            "Tarleton State",
+            "California Baptist",
+            "Utah Tech",
+            "Texas Rio Grande Valley",
+            "Chicago State",
+            "Lamar"
+        ]
+    }
+
+}
