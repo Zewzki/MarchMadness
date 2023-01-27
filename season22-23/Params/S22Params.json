@@ -1,0 +1,23 @@
+{
+
+    "db": {
+        "schema_name": "season22"
+    },
+
+    "run_params": {
+        "start_month": 11,
+        "start_day": 1,
+        "end_month": 4,
+        "end_day":31
+    },
+
+    "elo_params": {
+        "default_elo": 1200,
+        "team_elo_weight": 0.85,
+        "conf_elo_weight": 0.15,
+        "k_tiers": [[0, 2100, 64], [2100, 2400, 32], [2400, 9999, 16]]
+    },
+
+    "logging": {
+    }
+}
